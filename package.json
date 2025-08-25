@@ -89,7 +89,7 @@
         "hardhat-gas-reporter": "2.2.3",
         "hardhat-tracer": "3.1.0",
         "husky": "9.1.7",
-        "inquirer": "12.6.0",
+        "inquirer": "12.9.4",
         "lint-staged": "15.5.1",
         "mocha": "11.1.0",
         "node-fetch": "^2.7.0",
